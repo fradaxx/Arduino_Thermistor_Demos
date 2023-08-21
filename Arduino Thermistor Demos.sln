@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thermistor_Demo_1", "Thermistor_Demo_1\Thermistor_Demo_1.vcxproj", "{12B1A876-AD04-4721-8A9E-15CD5B6C1A0E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thermistor", "thermistor\thermistor.vcxitems", "{E4D34BF8-95C3-4207-9ADF-D89062B83360}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thermistor2", "thermistor2\thermistor2.vcxitems", "{7E7E17D2-CF17-4E32-81A2-70404753BD9A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thermistor_Demo_0", "Thermistor_Demo_0\Thermistor_Demo_0.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thermostat_1", "Thermostat_1\Thermostat_1.vcxproj", "{FAB33CFF-0A43-435B-B26B-02ADD0C802AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thermostat_2", "Thermostat_2\Thermostat_2.vcxproj", "{674B484C-6652-4551-BB43-C5B79FD19648}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thermostat_3_LCD", "Thermostat_3_LCD\Thermostat_3_LCD_LABVIEW.vcxproj", "{4591A9CC-A06E-4FCF-9119-2218D8A2B8D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thermostat_4_LCD", "Thermostat_4_LCD\Thermostat_4_LCD_LABVIEW.vcxproj", "{3308B8CD-A2AA-44FB-B1C4-4132BCF84E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B1A876-AD04-4721-8A9E-15CD5B6C1A0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{12B1A876-AD04-4721-8A9E-15CD5B6C1A0E}.Debug|x86.Build.0 = Debug|Win32
+		{12B1A876-AD04-4721-8A9E-15CD5B6C1A0E}.Release|x86.ActiveCfg = Release|Win32
+		{12B1A876-AD04-4721-8A9E-15CD5B6C1A0E}.Release|x86.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{FAB33CFF-0A43-435B-B26B-02ADD0C802AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAB33CFF-0A43-435B-B26B-02ADD0C802AB}.Debug|x86.Build.0 = Debug|Win32
+		{FAB33CFF-0A43-435B-B26B-02ADD0C802AB}.Release|x86.ActiveCfg = Release|Win32
+		{FAB33CFF-0A43-435B-B26B-02ADD0C802AB}.Release|x86.Build.0 = Release|Win32
+		{674B484C-6652-4551-BB43-C5B79FD19648}.Debug|x86.ActiveCfg = Debug|Win32
+		{674B484C-6652-4551-BB43-C5B79FD19648}.Debug|x86.Build.0 = Debug|Win32
+		{674B484C-6652-4551-BB43-C5B79FD19648}.Release|x86.ActiveCfg = Release|Win32
+		{674B484C-6652-4551-BB43-C5B79FD19648}.Release|x86.Build.0 = Release|Win32
+		{4591A9CC-A06E-4FCF-9119-2218D8A2B8D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{4591A9CC-A06E-4FCF-9119-2218D8A2B8D7}.Debug|x86.Build.0 = Debug|Win32
+		{4591A9CC-A06E-4FCF-9119-2218D8A2B8D7}.Release|x86.ActiveCfg = Release|Win32
+		{4591A9CC-A06E-4FCF-9119-2218D8A2B8D7}.Release|x86.Build.0 = Release|Win32
+		{3308B8CD-A2AA-44FB-B1C4-4132BCF84E0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3308B8CD-A2AA-44FB-B1C4-4132BCF84E0B}.Debug|x86.Build.0 = Debug|Win32
+		{3308B8CD-A2AA-44FB-B1C4-4132BCF84E0B}.Release|x86.ActiveCfg = Release|Win32
+		{3308B8CD-A2AA-44FB-B1C4-4132BCF84E0B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E8925D-BF9A-46F0-9984-4CB38F46D231}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		thermistor2\thermistor2.vcxitems*{12b1a876-ad04-4721-8a9e-15cd5b6c1a0e}*SharedItemsImports = 4
+		thermistor2\thermistor2.vcxitems*{3308b8cd-a2aa-44fb-b1c4-4132bcf84e0b}*SharedItemsImports = 4
+		thermistor2\thermistor2.vcxitems*{4591a9cc-a06e-4fcf-9119-2218d8a2b8d7}*SharedItemsImports = 4
+		thermistor2\thermistor2.vcxitems*{674b484c-6652-4551-bb43-c5b79fd19648}*SharedItemsImports = 4
+		thermistor2\thermistor2.vcxitems*{7e7e17d2-cf17-4e32-81a2-70404753bd9a}*SharedItemsImports = 9
+		thermistor\thermistor.vcxitems*{e4d34bf8-95c3-4207-9adf-d89062b83360}*SharedItemsImports = 9
+		thermistor2\thermistor2.vcxitems*{fab33cff-0a43-435b-b26b-02add0c802ab}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
